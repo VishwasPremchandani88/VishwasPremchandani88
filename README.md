@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishwaspremchandani88&label=Profile%20views&color=0e75b6&style=flat" alt="vishwaspremchandani88" /> </p>
 
-- 🌱 I’m currently learning **ML frameworks such as PyTorch,and in web development I am Currently learning MERN stack and I am looking forward to learn Flutter**
+- 🌱 I’m currently learning **ML frameworks such as PyTorch, and I am looking forward to learn Flutter**
 
 - 💬 Ask me about **HTML,CSS3,JS,Python**
 
